@@ -35,6 +35,13 @@ def finalCoding(questions_info, key):
             continue
     return frequency
 
+def marks(correct):
+    marks = 0
+    marks += correct * 4
+    incorrect = 60 - correct
+    marks -= incorrect
+    return marks
+
 qpaperHTML = ""
 anskeyHTML = ""
 with open("question_paper.html","r") as f:
@@ -48,3 +55,6 @@ anskey = soup(anskeyHTML,"lxml")
 frequency = finalCoding(getQuestions(quespaper), getAnswers(anskey))
 
 print(frequency)
+
+for i in frequency:
+    print(str(i) + ':', 'Frequency:', frequency[i], '| Marks:', marks(frequency[i]))
