@@ -33,5 +33,29 @@ copy paste the source code of the question paper and answer key websites and sav
 - C: Frequency: 21 | Marks: 45
 - D: Frequency: 13 | Marks: 5
 
+**16th March 2021 | First Shift**
+- A: Frequency: 13 | Marks: 5 
+- B: Frequency: 19 | Marks: 35
+- C: Frequency: 16 | Marks: 20
+- D: Frequency: 12 | Marks: 0
+
+**17th March 2021 | First Shift**
+- A: Frequency: 16 | Marks: 20
+- B: Frequency: 22 | Marks: 50
+- C: Frequency: 8 | Marks: -20
+- D: Frequency: 14 | Marks: 10
+
+**18th March 2021 | First Shift**
+- A: Frequency: 21 | Marks: 45
+- B: Frequency: 16 | Marks: 20
+- C: Frequency: 10 | Marks: -10
+- D: Frequency: 13 | Marks: 5
+
+**18th March 2021 | Second Shift**
+- A: Frequency: 16 | Marks: 20
+- B: Frequency: 9 | Marks: -15
+- C: Frequency: 17 | Marks: 25
+- D: Frequency: 18 | Marks: 30
+
 ## How to contribute
 Share your results in a PR if you gave a different shift paper
